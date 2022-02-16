@@ -1,0 +1,168 @@
+,0
+Q12SEX,Sex  of each household member
+Q13POPGROUP,Population group of each household member
+Q14AGE,Age of each household member
+Q16RELATION,Relationship to head of household
+Q17MARITAL,Present marital status of each household member
+Q110FATHALIVE,Biological father alive
+Q113MOTHALIVE,Biological mother still alive
+Q11701SALWAG,Income from salaries and wages
+Q11710GRANTS,Income from social welfare grants
+Q21HIGHLEVEL,Highest level of education successfully completed
+Q25WRITE,Level of difficulty in writing
+Q25READ,Level of difficulty in reading
+Q25FORM,Level of difficulty in filling a form
+Q25CALCULATE,Level of difficulty in calculating
+Q26CURATT,Currently attending educational institution
+Q31AWAGE,Work for a wage
+Q31BBUS,Run a business
+Q311DISTANCE,Distance travelled to work
+Q41ASOCGRANT,Social grant(s)
+Q41B1OLDAGE,Old age grant
+Q41B2DISAB,Disability grant
+Q41B3CHILD,Child support grant
+Q181ACOVERED,Covered by medical aid
+Q182HEALTH,Health/medical insurance
+Q25121HIBLOOD,Hypertension/ high blood pressure diagnosis
+Q25122SUGAR,Diabetes/ high blood sugar diagnosis
+Q25123TB,TB diagnosis
+Q25124CANCER,Cancer diagnosis
+Q25125ASTHMA,Asthma diagnosis
+Q25126HEART,Congenital heart disease diagnosis
+Q25127ARTHRITIS,Arthritis diagnosis
+Q25128MENTAL,Mental illness diagnosis
+Q25129EPILEP,Epilepsy diagnosis
+Q251210HICHOL,High cholesterol diagnosis
+Q251211AIDS,HIV and AIDS diagnosis
+Q251212OTHER,Other chronic illnesses diagnosis
+Q25131HIBLOOD,Hypertension/ high blood pressure medication taken
+Q25132SUGAR,Diabetes/ high blood sugar medication taken
+Q25133TB,TB medication taken
+Q25134CANCER,Cancer medication taken
+Q25135ASTHMA,Asthma medication taken
+Q25136HEART,Congenital heart disease medication taken
+Q25137ARTHRITIS,Arthritis medication taken
+Q25138MENTAL,Mental illness medication taken
+Q25139EPILEP,Epilepsy medication taken
+Q251310HICHOL,High cholesterol medication taken
+Q251311AIDS,HIV and AIDS medication taken
+Q2514INJURED,Injury requiring medical treatment
+Q2517PLACE,Place  for medical assistance
+Q2518KIND,Kind of place usually visited when sick
+Q2519PLACE,Same place visited for routine/preventative care
+Q251101EXPEN,Expensive to consult
+Q251102WAIT,Wait too long to see the doctor
+Q251103NOTPOEN,Clinic or doctors room not open
+Q251104NOMONEY,No money for transport
+Q25111MEDSER,Need for any medical service
+Q251121GENERAL,Need for general health care but not afforded
+Q251125PRESCIB,Need for prescribed medication but not afforded
+Q251126FOLLOW,Need for follow-up care but not afforded
+Q2527BREATHE,Breath faster than usual when coughing
+province_code,Province code
+SETTLEMENT_TYPE,Settlement type
+Persns_wgt,Person weights
+Q116PRESENT,Present household living standard /wellbeing
+Q51MAIN,Description of the main dwelling
+Q52AWALLS,Main material used for walls of the main dwelling
+Q52AROOF,Main material used for the roof of the main dwelling
+Q52BMATFLOOR,Main material used for the floor of the main
+Q53WALLS,Condition of walls of the main dwelling
+Q53ROOF,Condition of the roof of the main dwelling
+Q53FLOOR,Condition of the floor of the main dwelling
+Q54ADWELLING,Government housing subsidy for the main dwelling
+Q54BSTATESUB,State subsidized house/flat
+Q55INDIGENT,Registration on indigent register with local municipality
+Q56DRINK,Main source of water for drinking
+Q56OTHER,Main source of water for other use
+Q57DRINK,Distance from dwelling to main source of drinking water
+Q57OTHER,Distance from dwelling to main source of water for other use
+Q59CLEAR,Clear drinking water from main source before treatment
+Q59TASTE,Drinking water from main source good in taste before treatment
+Q59SMELL,Drinking water from main source free from bad smell before treatment
+Q59SAFE,Drinking water from main source safe to drink before treatment
+Q510TREAT,Drinking water treatment
+Q511SUPPLY,Drinking water supplier
+Q515PAYWAT,Pay for water
+Q518TOILET,Type of toilet facility
+Q520SHARETOIL,Shared toilet facility
+Q521TOILETLOC,Toilet facility location
+Q523FREESANI,Free sanitation and sewerage services
+Q524ELECT,Access to/use electricity
+Q526FREEELCET,Free electricity
+Q527COOK,Main source of energy/fuel for cooking
+Q527LIGHT,Main source of energy/fuel for lighting
+Q527WATER,Main source of energy/fuel for water heating
+Q527SPACE,Main source of energy/fuel for space heating
+Q528REFUSE,Refuse collection or removal
+Q530MAIL,Mail/post received
+Q531FOOD,Distance to the nearest food market
+Q531CLINIC,Distance to the nearest clinic
+Q531HOSPITAL,Distance to the nearest hospital
+Q532FOOD,Mode of transport to the nearest food market
+Q532CLINIC,Mode of transport to the nearest clinic
+Q532HOSPITAL,Mode of transport to the nearest hospital
+Q532MULTI,Mode of transport to nearest multi-purpose community centre
+Q613BED,Bedrooms occupied
+Q615KITCHEN,Kitchens used/occupied
+Q616BATH,Bathrooms used/occupied
+Q617TOILET,Toilets used/occupied
+Q62OWNSHIP,Ownership of main dwelling
+Q653AREA,Estimated area of the dwelling unit in square metres (m2)
+Q6841OTHER,Ownership of other dwellings
+Q610101MEAT,Meat availability
+Q610102SPECIAL,Special meal on festive events
+Q610103CLOTH,Clothing
+Q610104NEWCLOTH,New clothes
+Q610107REGSAV,Regular savings for emergencies
+Q610108STRONG,Strong house
+Q610109SEPROO,Separate rooms for adults and children
+Q610110BATH,Bath or shower
+Q610112GARDEN,Garden
+Q61032WORSHIP,Place of worship in the local area
+Q61033NEIGHBH,Neighbourhood without rubbish in the streets
+Q61034NEIGHSMOKE,Neighbourhood without smoke in the air
+Q61036MARKET,Large supermarket in the local area
+Q61041SOMEONE,Someone to look after household members when sick/ill
+Q61045TALK,Someone to talk to
+Q7101ASSAULT,Victim of assault
+Q7112THEFTLIVES,Victim of livestock/poultry/other animal theft
+Q7114MURDER,Victim of murder in the household
+Q7117SEXUAL,Victim of sexual offences
+Q7118OTHER,Victim of other crimes
+Q161APUBATT,Public day-care attendance
+Q161APRIVATT,Private day-care attendance
+Q1833MEDS,Medication acquired
+Q18343FLAT,Medication included in a flat rate
+Q18344FRIEND,Medication received from a friend
+Q18345NATURE,Medication received from nature
+Q18351DOCTOR,Medication prescribed by doctor/nurse
+Q18352TRADITIO,Medication prescribed by traditional  or spiritual healer
+Q18353SELFPRESC,Self-prescription
+Q1836NOTAFFORD,Prescribed medication not affordable
+Q19151DRIVLIC,Driving/learners license
+Q211OWNLAND,Ownership or access to land
+Q2171LIVEST,Livestock production
+Q2172POULTRY,Poultry production
+Q2173GRAINS,Grains and food crops production
+Q2175FRUIT,Fruit and vegetable production
+Q221AFOOD,Standards of food consumption
+Q221BHOUSING,Standard of housing
+Q221CCLOTHING,Standard of clothing
+Q221DHEALTH,Standard of health
+Q222ADULT,Adults hunger
+Q223CHILD,Child hunger
+Q224ANOMONEY,No money to buy food
+Q224BNOMONEY5,No money for 5 or more days
+Q225ASIZE,Meal size cut
+Q225BSIZE5,Meal size cut for 5 or more days
+Q226ASKIP,Skip meals
+Q226BSKIP5,Skip meals for 5 or more days
+Q227ALESS,Less variety of foods consumed than expected
+Q227BLESS5,Less variety of food consumed for 5 or more days
+SexOfHead,Sex of head of household
+PopGroupOfHead,Population group of head of household
+hhsize,Household size
+expenditure_pcp,Expenditure per capita
+sick,The individual is sick
+pcnetincome,Per Capita net income

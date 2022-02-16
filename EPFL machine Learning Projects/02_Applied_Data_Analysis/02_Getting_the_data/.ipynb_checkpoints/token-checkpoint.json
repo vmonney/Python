@@ -1,0 +1,29 @@
+{
+    "token_type": "Bearer",
+    "expires_at": 1632364040,
+    "expires_in": 21600,
+    "refresh_token": "dd8aaab1390b1a46037fa589dbf49efcd896519d",
+    "access_token": "5b5774b2da44964d653e0e9bd8325ca698f56e57",
+    "athlete": {
+        "id": 92885597,
+        "username": "valentin_monney",
+        "resource_state": 2,
+        "firstname": "Valentin",
+        "lastname": "Monney",
+        "bio": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "sex": "M",
+        "premium": false,
+        "summit": false,
+        "created_at": "2021-09-22T19:51:37Z",
+        "updated_at": "2021-09-22T19:55:25Z",
+        "badge_type_id": 0,
+        "weight": null,
+        "profile_medium": "https://lh3.googleusercontent.com/a/AATXAJy_ffvkWn3W_MaREuq8BOzjXSGkx9FlS_yc2xhI=s96-c",
+        "profile": "https://lh3.googleusercontent.com/a/AATXAJy_ffvkWn3W_MaREuq8BOzjXSGkx9FlS_yc2xhI=s96-c",
+        "friend": null,
+        "follower": null
+    }
+}

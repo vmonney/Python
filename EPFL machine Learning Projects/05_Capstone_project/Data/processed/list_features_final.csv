@@ -1,0 +1,509 @@
+UQNO,Unique Number,0
+SURVEYDATE,Survey date,0
+PERSONNO,Person number,0
+Q12SEX,Sex  of each household member,1
+Q13POPGROUP,Population group of each household member,1
+Q14AGE,Age of each household member,1
+Q16RELATION,Relationship to head of household,1
+Q17MARITAL,Present marital status of each household member,1
+Q18PARTINHH,Spouse/partner a residing member of the household,0
+Q19SPOUSNO,Spouse number,0
+Q110FATHALIVE,Biological father alive,1
+Q111FATHINHH,Biological father a residing member of the household,0
+Q112FATHNO,Biological father person number,0
+Q113MOTHALIVE,Biological mother still alive,1
+Q114MOTHINHH,Biological mother a residing member of the household,0
+Q115MOTHNO,Biological mother person number,0
+Q11701SALWAG,Income from salaries and wages,1
+Q11702NETPROF,Income from net profit of business,1
+Q11703SUBFARM,Income from subsistence farming,0
+Q11704LETTING,Income from letting of fixed property,0
+Q11705ROYAL,Income from royalties,0
+Q11706INTREC,Income from interest received,0
+Q11707DIV,Income from dividends on shares,0
+Q11708SHARE,Income from share trading,0
+Q11709REGPEN,Income from regular receipts from pension,1
+Q11710GRANTS,Income from social welfare grants,1
+Q11711ALMONY,Income from alimony,1
+Q11712ALLOWAN,Income from regular allowances/remittances,1
+Q11713OTHER,Main source of income,0
+Q11714NOTOALL,No to all,0
+Q21HIGHLEVEL,Highest level of education successfully completed,1
+Q22ATTEND,Children school attendance,0
+Q23WHERE,Childrens whereabouts during the day,0
+Q24ECDPROG,Early Childhood Development programme,0
+Q25WRITE,Level of difficulty in writing,1
+Q25READ,Level of difficulty in reading,1
+Q25FORM,Level of difficulty in filling a form,1
+Q25LETTER,Level of difficulty in writing a letter,0
+Q25CALCULATE,Level of difficulty in calculating,1
+Q25SIGNS,Level of difficulty in reading road signs,0
+Q26CURATT,Currently attending educational institution,1
+Q27AINST,Educational institution attended,1
+Q27BTYPE,Type of educational institution,1
+Q281CLASS,Classrooms at school,0
+Q282WATER,Running water at school,1
+Q283TOILET,Toilet facility at school,1
+Q284LIBR,Library at school,1
+Q285SCILAB,Science laboratory at school,1
+Q286COMP,Computers at school,1
+Q287FEEDING,Feeding scheme at school,0
+Q288SEC,Security guard at school,0
+Q289SPORTS,Sports facilities at school,1
+Q29PAYFEES,Pay fees,0
+Q210WHYNOFEE,Why no fees paid,0
+Q211REASON,Reason for not attending school,1
+Q31AWAGE,Work for a wage,1
+Q31BBUS,Run a business,1
+Q31CNOPAY,Work without pay,1
+Q32JOBRETURN,Job to return to,0
+Q33LOOKING,Looking for any kind of work,0
+Q34LIKEWORK,Liked to work,0
+Q35MAINREASON,Main reason for not trying to find work,0
+Q36ABLE,Able to start work/business,0
+Q39SECTOR,Employment sector,0
+Q310DURATION,Duration of work,0
+Q311DISTANCE,Distance travelled to work,1
+Q312MODE,Mode of transport to get to work,0
+Q313TIME,Time taken to get to work,0
+Q41ASOCGRANT,Social grant(s),1
+Q41B1OLDAGE,Old age grant,1
+Q41B2DISAB,Disability grant,1
+Q41B3CHILD,Child support grant,1
+Q41B4CAREDEP,Care dependency grant,1
+Q41B5FOSTER,Foster care grant,1
+Q41B6WARVET,War veterans grant,0
+Q41B7INAID,Grant-in-aid,0
+Q42ASOCRELIEF,Social relief,0
+Q42B1CASH,Cash for social relief,0
+Q42B2FOOD,Food for social relief,0
+Q42B3BLANK,Blankets for social relief,0
+Q42B4CLOTHES,Clothes for social relief,0
+Q42B5OTHER,Other items received for social relief,0
+Q43ANEIGHBOUR,Social relief from neighbours,0
+Q43ARELIGIOUS,Social relief from religious organizations,0
+Q43ANGO,Social relief from NGOs,0
+Q43AMUNIC,Social relief from local municipality,0
+Q43APROVGOV,Social relief from provincial government,0
+Q43ANATGOV,Social relief from national government,0
+Q43AOTHER,Social relief from other organizations,0
+Q43BOFTEN,How often is the social relief provided,0
+Q44REASON,Reason for receipt of social relief,0
+Q45SCALE,Life satisfaction scale,0
+Q46HAPPY,Level of happiness,1
+Q181ACOVERED,Covered by medical aid,1
+Q181B1SELF,Self-payment of medical aid/scheme,0
+Q181B2HHMEM,Medical aid paid by another household member,0
+Q181B3NONHHMEM,Medical aid paid by a non-household member,0
+Q181B4EMPLOY,Medical aid paid by employer,0
+Q182HEALTH,Health/medical insurance,1
+Q2411BAMOUNT,Gross income amount provided,0
+Q25121HIBLOOD,Hypertension/ high blood pressure diagnosis,1
+Q25122SUGAR,Diabetes/ high blood sugar diagnosis,1
+Q25123TB,TB diagnosis,1
+Q25124CANCER,Cancer diagnosis,1
+Q25125ASTHMA,Asthma diagnosis,1
+Q25126HEART,Congenital heart disease diagnosis,1
+Q25127ARTHRITIS,Arthritis diagnosis,1
+Q25128MENTAL,Mental illness diagnosis,1
+Q25129EPILEP,Epilepsy diagnosis,1
+Q251210HICHOL,High cholesterol diagnosis,1
+Q251211AIDS,HIV and AIDS diagnosis,1
+Q251212OTHER,Other chronic illnesses diagnosis,1
+Q25131HIBLOOD,Hypertension/ high blood pressure medication taken,1
+Q25132SUGAR,Diabetes/ high blood sugar medication taken,1
+Q25133TB,TB medication taken,1
+Q25134CANCER,Cancer medication taken,1
+Q25135ASTHMA,Asthma medication taken,1
+Q25136HEART,Congenital heart disease medication taken,1
+Q25137ARTHRITIS,Arthritis medication taken,1
+Q25138MENTAL,Mental illness medication taken,1
+Q25139EPILEP,Epilepsy medication taken,1
+Q251310HICHOL,High cholesterol medication taken,1
+Q251311AIDS,HIV and AIDS medication taken,1
+Q251312OTHER,Other chronic illness medication taken,1
+Q2514INJURED,Injury requiring medical treatment,1
+Q25151OCCU,Injury cause by motor vehicle as an occupant,0
+Q25152PEDES,Injury cause by motor vehicle as a pedestrian,0
+Q25153BICYCLE,Injury caused by bicycle,0
+Q25154ACCIDENT,Injury caused by accidental fall,0
+Q25155SWIM,Injury sustained while swimming,0
+Q25156WATER,Injury sustained while playing near water / swimming pool,0
+Q25157FIRE,Injury caused by fire/burn,0
+Q25158ACCPOIS,Injury caused by accidental poisoning,0
+Q25159INTEN,Injury caused by intentional poisoning,0
+Q251510SPORTS,Sports related injury,0
+Q251511CRIME,Crime related injury,0
+Q251512OTHER,Other causes of injury,0
+Q2516MISSWRK,Days school/work missed due to injury,0
+Q2517PLACE,Place  for medical assistance,1
+Q2518KIND,Kind of place usually visited when sick,0
+Q2519PLACE,Same place visited for routine/preventative care,1
+Q251101EXPEN,Expensive to consult,1
+Q251102WAIT,Wait too long to see the doctor,1
+Q251103NOTPOEN,Clinic or doctors room not open,1
+Q251104NOMONEY,No money for transport,1
+Q251105OTHER,Other reasons for delayed health care,0
+Q25111MEDSER,Need for any medical service,1
+Q251121GENERAL,Need for general health care but not afforded,1
+Q251122MENTAL,Need for mental health care but not afforded.,1
+Q251123DENTAL,Need for dental care but not afforded,1
+Q251124SPECIAL,Need to see a specialist but not afforded,1
+Q251125PRESCIB,Need for prescribed medication but not afforded,1
+Q251126FOLLOW,Need for follow-up care but not afforded,1
+Q25211FLU,Children diagnosed with influenza/flue,0
+Q25212PNEUM,Children diagnosed with pneumonia,0
+Q25213BRONC,Children diagnosed with bronchitis,0
+Q25214MEAS,Children diagnosed with measles,0
+Q25215HAYFEV,Children diagnosed with hay fever,0
+Q25216EARINFEC,Children diagnosed with ear infection,0
+Q25217FOODALL,Children diagnosed with food allergies,0
+Q25218SKIN,Children diagnosed with skin allergy,0
+Q25219MENIN,Children diagnosed with meningitis,0
+Q252110CHICKPOX,Children diagnosed with chicken pox,0
+Q252111DIARRH,Children diagnosed with diarrhea,0
+Q252112OTHER,Children diagnosed with other diseases/illnesses,0
+Q25221MENTAL,Children diagnosed with mental retardation,0
+Q25222ADHD,Children diagnosed with ADHD,0
+Q25223OTHER,Children diagnosed with other developmental delay,0
+Q2523FEVER,Children diagnosed with fever,0
+Q2524SEEK,Seek advice and/or treatment for fever,1
+Q2525WHERE,Where advice and/or treatment for fever was sought,1
+Q2526COUGH,Children having cough,0
+Q2527BREATHE,Breath faster than usual when coughing,1
+Q2528SEEK,Seek advice and /treatment for cough,1
+Q2529WHERE,Where advice and/or treatment for cough was sought,1
+Q25210DIARRH,Children diagnosed with diarrhoea,0
+Q25211SEEK,Seek advice and/or treatment for diarrhoea,1
+Q25212TREAT,Anything given for treatment of diarrhoea,1
+Q252131FLUID,Fluid from soral packet (rehydrant) given for diarrhoea treatment,1
+Q252132HOME,Home-made fluid given for diarrhoea treatment,1
+Q252133PILL,Pill or syrup given for diarrhoea treatment,1
+Q252134INJEC,Injection given for diarrhoea treatment,1
+Q252135INTRA,Intravenous (IV) given for diarrhoea treatment,1
+Q252136HERBAL,Home-made remedies/herbal medicine given for diarrhoea treatment,1
+Q252137NONE,None given for diarrhoea treatment,0
+Q252138OTHER,Other treatment given for diarrhoea,1
+Q25214SEEK,Where advice and/or treatment for diarrhoea was sought,1
+Q2531REGIS,Birth registration with the SA Department of Home Affairs,0
+Q25321TOOFAR,Birth registration offices too far,0
+Q25322DONTKN,Dont know of birth registration,0
+Q25323REGIS,Dont know where to register birth,0
+Q25324OUTSIDE,Born outside South Africa,0
+Q25325DONTKN,Dont know why birth is not registered,0
+Q25326OTHER,Other reason for unregistered birth,0
+Q2533PROCESS,Knowledge of process to follow to register birth,0
+Q2551LIMITED,Limitation in daily activities,0
+Q2552SEEING,Degree of difficulty seeing,0
+Q2552HEAR,Degree of difficulty hearing,1
+Q2552WALK,Degree of difficulty walking,1
+Q2552REMEM,Degree of difficulty remembering and concentrating,1
+Q2552SELFCA,Degree of difficulty in self-care,1
+Q2552COMM,Degree of difficulty in communicating,1
+province_code,Province code,1
+SETTLEMENT_TYPE,Settlement type,1
+Persns_wgt,Person weights,1
+Q11CPARTHH,Other person(s) who has/have been part of the household,0
+Q11CMANY,How many?,0
+Q15OTHPERS,Other residing members of the household not present,0
+Q116PRESENT,Present household living standard /wellbeing,1
+Q116PERSONNO,Person number:Present household living standard /wellbeing,0
+Q51MAIN,Description of the main dwelling,1
+Q51OTHER,Description of other dwelling(s),0
+Q51NOOTH,No other dwelling occupied,0
+Q52AWALLS,Main material used for walls of the main dwelling,1
+Q52AROOF,Main material used for the roof of the main dwelling,1
+Q52BMATFLOOR,Main material used for the floor of the main,1
+Q53WALLS,Condition of walls of the main dwelling,1
+Q53ROOF,Condition of the roof of the main dwelling,1
+Q53FLOOR,Condition of the floor of the main dwelling,1
+Q54ADWELLING,Government housing subsidy for the main dwelling,1
+Q54AOTHER,Government housing subsidy for other dwelling,0
+Q54BSTATESUB,State subsidized house/flat,1
+Q55INDIGENT,Registration on indigent register with local municipality,1
+Q56DRINK,Main source of water for drinking,0
+Q56OTHER,Main source of water for other use,1
+Q57DRINK,Distance from dwelling to main source of drinking water,0
+Q57OTHER,Distance from dwelling to main source of water for other use,1
+Q58PIPE,Piped water usage stopped due to water system breakage,1
+Q59CLEAR,Clear drinking water from main source before treatment,1
+Q59TASTE,Drinking water from main source good in taste before treatment,1
+Q59SMELL,Drinking water from main source free from bad smell before treatment,1
+Q59SAFE,Drinking water from main source safe to drink before treatment,1
+Q510TREAT,Drinking water treatment,1
+Q511SUPPLY,Drinking water supplier,1
+Q512INTERUPT,Municipal water supply interruption,1
+Q513REASON,Main reason for the most recent interruption,0
+Q514LONGTWO,Municipal water supply interruption longer than two days,0
+Q515PAYWAT,Pay for water,1
+Q516REASON,Main reason for non-payment of water,1
+Q517FREEWAT,Free water,0
+Q518TOILET,Type of toilet facility,1
+Q519SEWERAGE,Payment of public sewerage system,0
+Q520SHARETOIL,Shared toilet facility,1
+Q521TOILETLOC,Toilet facility location,1
+Q522DISTANCE,Distance to the nearest toilet facility,1
+Q523FREESANI,Free sanitation and sewerage services,1
+Q524ELECT,Access to/use electricity,1
+Q525AMAINS,Connection to the MAINS electricity supply,0
+Q525BSOURCE,Source of electricity,0
+Q526FREEELCET,Free electricity,1
+Q527COOK,Main source of energy/fuel for cooking,1
+Q527LIGHT,Main source of energy/fuel for lighting,1
+Q527WATER,Main source of energy/fuel for water heating,1
+Q527SPACE,Main source of energy/fuel for space heating,1
+Q528REFUSE,Refuse collection or removal,1
+Q529FREEREF,Free refuse/solid waste removal,0
+Q530MAIL,Mail/post received,1
+Q531FOOD,Distance to the nearest food market,1
+Q531PUBTRAN,Distance to the nearest public transport,0
+Q531PREPRIM,Distance to the nearest pre-primary school,0
+Q531PRIM,Distance to the nearest primary school,0
+Q531SECOND,Distance to the nearest secondary school,0
+Q531CLINIC,Distance to the nearest clinic,1
+Q531HOSPITAL,Distance to the nearest hospital,1
+Q531POLICE,Distance to the nearest police station,0
+Q531RELIG,Distance to the nearest religious organization,0
+Q531BANK,Distance to the nearest bank,0
+Q531POSTOFF,Distance to the nearest post office,0
+Q531WELFARE,Distance to the nearest welfare office,0
+Q531MULTI,Distance to the nearest multi-purpose centre,0
+Q532FOOD,Mode of transport to the nearest food market,1
+Q532PUBTRAN,Mode of transport to the nearest public transport,0
+Q532PREPRIM,Mode of transport to the nearest pre-primary centre,0
+Q532PRIM,Mode of transport to the nearest primary school,0
+Q532SECOND,Mode of transport to the nearest secondary school,0
+Q532CLINIC,Mode of transport to the nearest clinic,1
+Q532HOSPITAL,Mode of transport to the nearest hospital,1
+Q532POLICE,Mode of transport to the nearest police station,0
+Q532RELIGIOUS,Mode of transport to the nearest religious organization,0
+Q532BANK,Mode of transport to the nearest bank,0
+Q532POSTOFF,Mode of transport to the nearest post office,0
+Q532WELFARE,Mode of transport to the nearest welfare office,0
+Q532MULTI,Mode of transport to nearest multi-purpose community centre,1
+Q611OPEN,Open plan rooms occupied,0
+Q612CLOSED,Closed rooms occupied,0
+Q613BED,Bedrooms occupied,1
+Q614MULTI,Multiple use rooms occupied,0
+Q615KITCHEN,Kitchens used/occupied,1
+Q616BATH,Bathrooms used/occupied,1
+Q617TOILET,Toilets used/occupied,1
+Q618OTHER,Other rooms used/occupied,0
+Q61TOTROOMS,Total number of rooms used/occupied,0
+Q62OWNSHIP,Ownership of main dwelling,0
+Q631FRENTINCLUDE,"Total rent/free rental include water, electricity, etc.",0
+Q6352SUBSIDY,Subsidy towards dwelling unit repayments,0
+Q6353INCLUDED,Total monthly instalment inclusive of subsidy,0
+Q6511OPEN,Total number of open plan rooms,0
+Q6512CLOSED,Total number of closed rooms,0
+Q6513BED,Total number of bedrooms,0
+Q6514MULTI,Total number of rooms with multiple use,0
+Q6515KITCHEN,Total number of kitchen rooms,0
+Q6516BATH,Total number of bathrooms,0
+Q6517TOILET,Total number of toilets,0
+Q6518OTHER,Total number of other rooms,0
+Q651TOTROOMS,Total number of rooms,0
+Q652AGARAGE,Garage occupied by the household,0
+Q652BNOCARS,Number of cars occupying the garage,0
+Q653AREA,Estimated area of the dwelling unit in square metres (m2),1
+Q654DWELL,Dwelling acquisition,0
+Q655YEAR,Year of dwelling purchase/built,0
+Q657AKNOW,Know municipal value of the dwelling,0
+Q658VALUE,Estimated value of the dwelling,0
+Q683DOREPAIRS,Repairs and improvements done on the dwelling,0
+Q6841OTHER,Ownership of other dwellings,1
+Q610101MEAT,Meat availability,1
+Q610102SPECIAL,Special meal on festive events,1
+Q610103CLOTH,Clothing,1
+Q610104NEWCLOTH,New clothes,1
+Q610105SCHUNIF,School uniforms for children,0
+Q610106CONTR,Contribution towards funeral insurance/burial society,0
+Q610107REGSAV,Regular savings for emergencies,1
+Q610108STRONG,Strong house,1
+Q610109SEPROO,Separate rooms for adults and children,1
+Q610110BATH,Bath or shower,1
+Q610111BURGLAR,Burglar bars installed,0
+Q610112GARDEN,Garden,1
+Q610113FENCE,Fence/wall around the property,0
+Q6102AVISIT,Visits to friends and family in hospital/other institutions,0
+Q6102BREASONS,Reasons for no visits,0
+Q61031TARRED,Tarred road close to the house,0
+Q61032WORSHIP,Place of worship in the local area,1
+Q61033NEIGHBH,Neighbourhood without rubbish in the streets,1
+Q61034NEIGHSMOKE,Neighbourhood without smoke in the air,1
+Q61035POLICE,Police on the streets in the local area,0
+Q61036MARKET,Large supermarket in the local area,1
+Q61037CHILDPLAY,Safe child play area outside the house,0
+Q61038LIGHT,Street lights in the neighbourhood,0
+Q61041SOMEONE,Someone to look after household members when sick/ill,1
+Q61042ADULT,Adult at home to look after children aged 10 years,0
+Q61043MONEY,Someone to lend the household money during emergency,0
+Q61044TRANSP,Someone to transport household members during emergency,0
+Q61045TALK,Someone to talk to,1
+Q6105IMAGINE,Household imagination of its life circumstance,0
+Q6105RESPON,Respondent number,0
+Q7101ASSAULT,Victim of assault,1
+Q7102ROBBERY,Victim of robbery,0
+Q7103CARHIJACK,Victim of motor vehicle hijacking,0
+Q7104THEFTPROP,Victim of theft of personal property,0
+Q7105THEFTBIKE,Victim of theft of bike/bicycle/motorcycle,0
+Q7106FRAUD,Victim of fraud,0
+Q7107CORRUPT,Victim of corruption,0
+Q7108THEFTVEH,Victim of theft out of motor vehicle,0
+Q7109VEHVAND,Victim of vehicle vandalism,0
+Q7110HOUSEBR,Victim of house breaking,0
+Q7111HOMEROB,Victim of home robbery,0
+Q7112THEFTLIVES,Victim of livestock/poultry/other animal theft,1
+Q7113THEFTCROPS,Victim of theft of crops planted by the household,0
+Q7114MURDER,Victim of murder in the household,1
+Q7115DELIBERATE,Victim of deliberate damaging of dwellings,0
+Q7116CARTHEFT,Victim of car theft,0
+Q7117SEXUAL,Victim of sexual offences,1
+Q7118OTHER,Victim of other crimes,1
+Q7201ASSAULT,Conviction of assault,0
+Q7202ROBBERY,Conviction of robbery,0
+Q7203CARHIJACK,Conviction of car hijacking,0
+Q7204THEFTPROP,Conviction of theft of personal property,0
+Q7205THEFTBIKE,Conviction of theft of bike/bicycle/motorcycle,0
+Q7206FRAUD,Conviction of fraud,0
+Q7207CORRUPT,Conviction of corruption,0
+Q7208THEFTVEH,Conviction of theft out of motor vehicle,0
+Q7209VEHVAND,Conviction of vehicle vandalism,0
+Q7210HOUSEBR,Conviction of house breaking/burglary,0
+Q7211HOMEROB,Conviction of home robbery,0
+Q7212THEFTLIVE,Conviction of livestock/poultry/other animal theft,0
+Q7213THEFTCROPS,Conviction of theft of crops planted by the household,0
+Q7214MURDER,Conviction of murder,0
+Q7215DELIBERATE,Conviction of deliberate damaging of dwellings,0
+Q7216CARTHEFT,Conviction of car theft,0
+Q7217SEXUAL,Conviction of sexual offences,0
+Q7218OTHER,Conviction of other crimes,0
+Q811SWIMPOOL,Private use of swimming pool in the dwelling,0
+Q911AWAY,Trip(s) undertaken at least one night away from home,0
+Q921PUBHIRETRANS,Public and/or hired transport,0
+Q931TSHARE,Timeshare or holiday accommodation,0
+Q101DOMESTIC,Domestic services,0
+Q111OWNPROD,Own products production and/or keeping of livestock,0
+Q1311REPAIRSHH,Repairs to household textile,0
+Q1431REPAIRS,Repairs to appliances,0
+Q1531ACQPETS,Acquisition of pets,0
+Q161APUBATT,Public day-care attendance,1
+Q161APRIVATT,Private day-care attendance,1
+Q161BPUBATT,Public pre-primary education attendance,0
+Q161BPRIVATT,Private pre-primary education attendance,0
+Q161CPUBATT,Public primary education attendance,0
+Q161CPRIVATT,Private primary education attendance,0
+Q161DPUBATT,Public secondary education attendance,0
+Q161DPRIVATT,Private secondary education attendance,0
+Q161EPUBATT,Public Further Education and Training (FET) attendance,0
+Q161EPRIVATT,Private Further Education and Training (FET) attendance,0
+Q161FPUBATT,Public higher education attendance,0
+Q161FPRIVATT,Private higher education attendance,0
+Q161GPUBATT,Public institution short courses attended,0
+Q161GPRIVATT,Private institution short courses attended,0
+Q161HPUBATT,Public institution attendance of excursions and field trips,0
+Q161HPRIVATT,Private institution attendance of excursions and field trips,0
+Q161IPUBATT,"Laptops, MP3 players, and tablets for educational purposes in public institution",0
+Q161IPRIVATT,"Laptops, MP3 players, and tablets for educational purposes in private institutio",0
+Q161JPUBATT,Other educational expenses in public institutions,0
+Q161JPRIVATT,Other educational expenses in private institutions,0
+Q162APUBATT,Boarding fees in public schools,0
+Q162APRIVATT,Boarding fees in private schools,0
+Q162BPUBATT,"Boarding fees in public teachers training, technical colleges and FET colleges",0
+Q162BPRIVATT,"Boarding fees at private teachers training, technical colleges and FET colleges",0
+Q162CNOATTEND,Boarding fees at public universities,0
+Q162CPRIVATT,Boarding fees at private universities,0
+Q163PUBATT,Textbooks and other books used for educational purposes in public institutions,0
+Q163PRIVATT,Textbooks and other books used for educational purposes in private institutions,0
+Q164PUBATT,Other training and education in public institutions,0
+Q164PRIVATT,Other training and education in private institutions,0
+Q1833MEDS,Medication acquired,1
+Q18341MEDAID,Medication covered by medical aid,1
+Q18342CASH,Medication paid for in cash,0
+Q18343FLAT,Medication included in a flat rate,1
+Q18344FRIEND,Medication received from a friend,1
+Q18345NATURE,Medication received from nature,1
+Q18346OTHER,Medication paid through other methods,1
+Q18351DOCTOR,Medication prescribed by doctor/nurse,1
+Q18352TRADITIO,Medication prescribed by traditional  or spiritual healer,1
+Q18353SELFPRESC,Self-prescription,1
+Q1836NOTAFFORD,Prescribed medication not affordable,1
+Q191AACQVEH,Vehicle acquisition for private use,0
+Q191BWASACQ,Condition/state of acquired vehicle(s),0
+Q19141COST,Running costs for privately used vehicles,0
+Q19151DRIVLIC,Driving/learners license,1
+Q211OWNLAND,Ownership or access to land,1
+Q212LANDUSED,Land use,0
+Q2131FUNDS,Lack of funds for land production,0
+Q2132EXPERTI,Lack of expertise for land production,0
+Q2133HUMRES,Lack of human resources for land production,0
+Q2134EQUIP,Lack of equipment for land production,1
+Q2135WATER,Lack of water for land production,1
+Q2136FARAWAY,Land far away,1
+Q2137OTHER,Other reasons for not using land for production,0
+Q214SIZE,The size of land used for food production,0
+Q215INVOLVED,Involved in food production or other agricultural products,0
+Q216HOWMANY,Household members aged 15 years or older involved in production of food,0
+Q2171LIVEST,Livestock production,1
+Q2172POULTRY,Poultry production,1
+Q2173GRAINS,Grains and food crops production,1
+Q2174INDUS,Industrial crops production,1
+Q2175FRUIT,Fruit and vegetable production,1
+Q2176FODDER,"Fodder, grazing/pasture for grass animals",1
+Q2177FISHFARM,Fish farming,1
+Q2178FORESTRY,Forestry,1
+Q2179GAME,Game farming,1
+Q21710FISHING,Fishing,1
+Q21711HUNT,Hunting,1
+Q21712OTHER,Other kind of food production or agricultural activities,1
+Q218MAINREAS,Main reason for involvement in production of food or other agricultural products,0
+Q219SELL,Selling of produce or other agricultural products,1
+Q221AFOOD,Standards of food consumption,1
+Q221BHOUSING,Standard of housing,1
+Q221CCLOTHING,Standard of clothing,1
+Q221DHEALTH,Standard of health,1
+Q221ECHILDRENS,Standard of childrens schooling,0
+Q221PERSNO,Person number:Standard of childrens schooling,0
+Q222ADULT,Adults hunger,1
+Q223CHILD,Child hunger,1
+Q224ANOMONEY,No money to buy food,1
+Q224BNOMONEY5,No money for 5 or more days,1
+Q225ASIZE,Meal size cut,1
+Q225BSIZE5,Meal size cut for 5 or more days,1
+Q226ASKIP,Skip meals,1
+Q226BSKIP5,Skip meals for 5 or more days,1
+Q227ALESS,Less variety of foods consumed than expected,1
+Q227BLESS5,Less variety of food consumed for 5 or more days,1
+Q228YOUNGPERS,Young person on the streets,0
+Q229NETINCOME,Net household income per month (absolute minimum),1
+Q229PERSNO,Person Number:Net household income per month (absolute minimum),0
+Q2210TOT,Total monthly household income,0
+Q2341SAVING,Household saving,0
+SexOfHead,Sex of head of household,1
+PopGroupOfHead,Population group of head of household,1
+Ageofhead,Age of head of household,0
+hhsize,Household size,1
+expenditure,Total expenditure,0
+income,Household Income,0
+expenditure_pcp,Expenditure per capita,1
+income_pcp,Income per capita,0
+expenditure_inkind,Expenditure in-kind,0
+income_inkind,Household income in-kind,0
+expenditure_decile,Expenditure decile,0
+expenditure_quintile,Expenditure quintile,0
+expenditure_pcp_decile,Expenditure per capita decile,0
+expenditure_pcp_quintile,Expenditure per capita quintile,0
+income_decile,Income decile,0
+income_quintile,Income quintile,0
+income_pcp_decile,Income per capita decile,0
+income_pcp_quintile,Income per capita quintile,0
+expend_inkind_decile,Expenditure in-kind decile,0
+expend_inkind_quintile,Expenditure in-kind quintile,0
+income_inkind_decile,Income in-kind decile,0
+income_inkind_quintile,Income in-kind quintile,0
+Expenditure_weighted,Expenditure_weighted,0
+Expenditure_inkind_weighted,Expenditure_inkind_weighted,0
+Income_weighted,Income_weighted,0
+Income_inkind_weighted,Income_inkind_weighted,0
+hholds_wgt,Households weights,0
+sick,The individual is sick,1
